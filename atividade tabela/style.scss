@@ -1,0 +1,47 @@
+
+$blue: #007bff; 
+$light-gray: #f9f9f9; 
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+
+  
+  thead {
+    tr {
+      background-color: $blue;
+      color: white;
+      text-align: left;
+
+      th {
+        padding: 10px;
+        border: 1px solid $blue;
+      }
+    }
+  }
+
+
+  tbody {
+    tr {
+      &:nth-child(odd) {
+        background-color: $light-gray; 
+
+      &:nth-child(even) {
+        background-color: white; 
+      }
+
+      td {
+        padding: 10px;
+        border: 1px solid #ddd; 
+      }
+    }
+  }
+
+  
+  border: 2px solid $blue;
+}
+}

@@ -1,0 +1,79 @@
+/* Estilização do Header */
+.header {
+    background-color: pink; /* Fundo rosa */
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 2em;
+}
+
+/* Estilização da Lista de Navegação */
+.nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espaço entre os itens */
+}
+
+.nav li {
+    background-color: #ff69b4; /* Rosa pink */
+    padding: 10px 20px;
+    border-radius: 20px; /* Bordas arredondadas */
+    color: white;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+}
+
+/* Estilização do Main */
+.main {
+    background-color: #ffe4e1; /* Rosa claro */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilização dos Cards */
+.conteinerCards {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espaço entre os cards */
+}
+
+.conteinerCards img {
+    width: 200px; /* Tamanho uniforme */
+    height: 200px; /* Tamanho uniforme */
+    object-fit: cover;
+    border: 2px solid #ff69b4; /* Borda rosa pink */
+    border-radius: 10px; /* Bordas arredondadas */
+}
+
+/* Estilização do Parágrafo */
+.main p {
+    font-size: 1.2em;
+    color: #ff1493; /* Rosa destaque */
+    margin-top: 20px;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+/* Estilização do Botão */
+.main button {
+    background-color: #ff69b4; /* Rosa */
+    color: white; /* Texto branco */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px; /* Bordas arredondadas */
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.main button:hover {
+    background-color: #ff1493; /* Tom mais forte ao passar o mouse */
+}
