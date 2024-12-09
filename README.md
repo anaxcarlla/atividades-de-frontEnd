@@ -1,6 +1,8 @@
 # Atividades de Front-End
 
-Este repositório contém atividades de front-end que exploram a criação de páginas web utilizando HTML para estrutura, SCSS para estilização e a integração dessas tecnologias para desenvolver interfaces funcionais e visualmente atraentes.
+Este repositório contém atividades de front-end que exploram a criação de páginas web utilizando HTML para estrutura, SCSS para estilização e a integração dessas tecnologias para desenvolver interfaces funcionais e visualmente atraentes.  
+
+Algumas das atividades aqui desenvolvidas colocam em prática o aprendizado de várias aulas, consolidando os conhecimentos adquiridos sobre estruturação, estilização e organização de páginas web.
 
 ---
 
@@ -26,6 +28,16 @@ Este repositório contém atividades de front-end que exploram a criação de p�
 
 - `atividade tabela/`  
   Inclui o trabalho focado na criação e estilização de tabelas HTML.
+
+---
+
+## Integração de Conteúdos Aprendidos
+
+As atividades desenvolvidas neste repositório foram projetadas para integrar o aprendizado de mais de uma aula. Por exemplo:
+- A construção de tabelas estilizadas coloca em prática conceitos de estruturação (HTML) e design (SCSS).
+- A organização dos estilos utiliza práticas avançadas aprendidas em lições sobre SCSS, como o uso de variáveis e mixins, para melhorar a eficiência e manutenção do código.
+
+Isso ajuda a consolidar os conhecimentos e reforçar a aplicação prática dos temas abordados.
 
 ---
 
